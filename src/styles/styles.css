@@ -1,0 +1,44 @@
+* {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #4d4d4d
+}
+.top {
+    margin:auto;
+}
+
+
+.left {
+    margin-left: 0px;
+    float: left!important;
+}
+
+.separator {
+    margin-left: 5%;
+}
+
+.m-left {
+    margin-left: 4px;
+}
+
+.m-right {
+    margin-right: 5px;
+}
+
+.top-bar {
+    width:100%;
+    margin-top:0px;
+    float:left;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-bottom: 17px;
+    background: #f0f0f0;
+}
+
+.phone-section {
+    width: 100%;
+    padding-left: 0px;
+    font-size: 11px;
+}
