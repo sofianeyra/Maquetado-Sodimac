@@ -10,14 +10,9 @@ a {
     margin:auto;
 }
 
-
 .left {
     margin-left: 0px;
     float: left!important;
-}
-
-.separator {
-    margin-left: 5%;
 }
 
 .m-left {
@@ -26,6 +21,14 @@ a {
 
 .m-right {
     margin-right: 5px;
+}
+
+.separator {
+    margin-left: 5%;
+}
+
+.bold-text {
+    font-weight: bold;
 }
 
 .top-bar {

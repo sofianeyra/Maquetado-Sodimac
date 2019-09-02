@@ -5,16 +5,16 @@ render(){
     return( 
     <section className="top-bar">
         <div className="top">
-            <div className="phone-section left no-textdecor">
+            <div className="phone-section left bold-text">
                 <p className="alignItems">
                     <a href="01 615 6002" className="phone" title="Ir a Compra Telefonica">Venta Telefónica <b>(01)615 6002</b></a>
-                    <span className="line">|</span>
+                    <span className="line m-left m-right">|</span>
                     <a href="01 419 2000" className="phone" title="Ir a Servicio al cliente">Servicio al Cliente<b>(01) 419 2000</b></a>
-                    <span className="line">|</span>
+                    <span className="line m-left m-right">|</span>
                     <a href="https://www.sodimac.com.pe/" className="buySection" title="Ir a Tiendas">Tiendas</a>
-                    <span className="line">|</span>
+                    <span className="line m-left m-right">|</span>
                     <a href="https://www.sodimac.com.pe/" className="buySection" title="Ir a Seguimiento de compras">Seguimiento de tu compra</a>
-                    <span className="line">|</span>
+                    <span className="line m-left m-right">|</span>
                     <a href="https://www.sodimac.com.pe/" className="buySection" title="Ir a Venta Empresa">Venta Empresa</a>
                     <span className="separator"></span>
                     <a href="http://www.falabella.com.pe/" className="falabellaSection right" alt="Ir a Falabella">FALABELLA</a>
