@@ -1,5 +1,6 @@
 * {
     list-style: none;
+    font-family: 'Lato', sans-serif;
 }
 
 a {
@@ -23,6 +24,10 @@ a {
     margin-right: 5px;
 }
 
+.font-size-11 {
+    font-size: 11px;
+}
+
 .separator {
     margin-left: 5%;
 }
@@ -35,7 +40,6 @@ a {
     width:100%;
     margin-top:0px;
     float:left;
-    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
     margin-bottom: 17px;
     background: #f0f0f0;
 }
@@ -43,5 +47,4 @@ a {
 .phone-section {
     width: 100%;
     padding-left: 0px;
-    font-size: 11px;
 }
