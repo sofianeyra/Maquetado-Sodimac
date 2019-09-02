@@ -5,7 +5,7 @@ render(){
     return( 
     <section className="top-bar">
         <div className="top">
-            <div className="phone-section left bold-text">
+            <div className="phone-section font-size-11 left bold-text">
                 <p className="alignItems">
                     <a href="01 615 6002" className="phone" title="Ir a Compra Telefonica">Venta Telefónica <b>(01)615 6002</b></a>
                     <span className="line m-left m-right">|</span>
