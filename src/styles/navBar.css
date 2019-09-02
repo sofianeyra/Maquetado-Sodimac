@@ -1,0 +1,19 @@
+
+.gps-icon {
+    width: 1.5%;
+}
+
+.shopping-icon, .user-icon {
+    width: 2.5%;
+}
+
+.counter {
+    border-radius: 18px;
+    text-align: center;
+    background: #dd0021;
+    color: white;
+}
+
+.counter:hover {
+    background: #0079d7;
+}
