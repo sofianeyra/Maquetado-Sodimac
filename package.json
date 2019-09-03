@@ -2,7 +2,7 @@
   "name": "maquetado-sodimac",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sofianeyra/Maquetado-Sodimac",
+  "homepage": "https://sofianeyra.github.io/Maquetado-Sodimac",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.9.0",
