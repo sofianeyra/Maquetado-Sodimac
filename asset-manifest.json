@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sofianeyra/Maquetado-Sodimac/static/css/main.b08e69f4.chunk.css",
+    "main.js": "/sofianeyra/Maquetado-Sodimac/static/js/main.22113fbb.chunk.js",
+    "main.js.map": "/sofianeyra/Maquetado-Sodimac/static/js/main.22113fbb.chunk.js.map",
+    "runtime~main.js": "/sofianeyra/Maquetado-Sodimac/static/js/runtime~main.163fc90d.js",
+    "runtime~main.js.map": "/sofianeyra/Maquetado-Sodimac/static/js/runtime~main.163fc90d.js.map",
+    "static/js/2.e3f7dac3.chunk.js": "/sofianeyra/Maquetado-Sodimac/static/js/2.e3f7dac3.chunk.js",
+    "static/js/2.e3f7dac3.chunk.js.map": "/sofianeyra/Maquetado-Sodimac/static/js/2.e3f7dac3.chunk.js.map",
+    "index.html": "/sofianeyra/Maquetado-Sodimac/index.html",
+    "precache-manifest.f1d8da4a34b5810c89783e3da402905d.js": "/sofianeyra/Maquetado-Sodimac/precache-manifest.f1d8da4a34b5810c89783e3da402905d.js",
+    "service-worker.js": "/sofianeyra/Maquetado-Sodimac/service-worker.js",
+    "static/css/main.b08e69f4.chunk.css.map": "/sofianeyra/Maquetado-Sodimac/static/css/main.b08e69f4.chunk.css.map",
+    "static/media/gps.svg": "/sofianeyra/Maquetado-Sodimac/static/media/gps.48fb98d7.svg",
+    "static/media/main-logo-responsive.jpg": "/sofianeyra/Maquetado-Sodimac/static/media/main-logo-responsive.4cde762b.jpg",
+    "static/media/pencil.svg": "/sofianeyra/Maquetado-Sodimac/static/media/pencil.bbb684c8.svg",
+    "static/media/search.svg": "/sofianeyra/Maquetado-Sodimac/static/media/search.7ed587bc.svg",
+    "static/media/shoppingcart.svg": "/sofianeyra/Maquetado-Sodimac/static/media/shoppingcart.3f1c856d.svg",
+    "static/media/user.svg": "/sofianeyra/Maquetado-Sodimac/static/media/user.4021e829.svg"
+  }
+}
